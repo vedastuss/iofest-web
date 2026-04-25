@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=TASA+Explorer:wght@400..800&display=swap');
+
+@theme {
+  --font-sans: "TASA Explorer", sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}
