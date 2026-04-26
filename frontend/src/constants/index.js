@@ -9,7 +9,53 @@
 // import pooriSabji from '../assets/images/poori-sabji.webp';
 // import roganJosh from '../assets/images/rogan-josh.jpg';
 // import { color } from 'framer-motion';
-
+export const propoLPJ = [
+  {
+    namaAcara: "PKKMB IMALEKTA 2026",
+    pic: "Nicolas Surya",
+    tipe: "PROPOSAL", // or "LPJ"
+    status: "Fakultas",
+    lastUpdated: "2026-04-26",
+    id: "P-2627-1",
+    budget: "Rp. 2.000.000"
+  },
+  {
+    namaAcara: "LATIHAN KEPEMIMPINAN IMALEKTA 2026",
+    pic: "Stephen King",
+    tipe: "PROPOSAL", // or "LPJ"
+    status: "Under Process",
+    lastUpdated: "2026-03-15",
+    id: "P-2627-2",
+    budget: "Rp. 200.000.000"
+  },
+  {
+    namaAcara: "IMACUP 2026",
+    pic: "Lebron James",
+    tipe: "PROPOSAL", // or "LPJ"
+    status: "BEM/DPM",
+    lastUpdated: "2026-04-10",
+    id: "P-2627-3",
+    budget: "Rp. 2.000.000"
+  },
+  {
+    namaAcara: "CELERY 2026",
+    pic: "Crispai",
+    tipe: "LPJ",
+    status: "Kaprodi/Binma",
+    lastUpdated: "2026-04-11",
+    id: "L-2526-6",
+    budget: "Rp. 3.000.000"
+  },
+  {
+    namaAcara: "PILKETUM 2026",
+    pic: "Giorgio Armani",
+    tipe: "LPJ",
+    status: "Fakultas",
+    lastUpdated: "2026-04-20",
+    id: "L-2526-7",
+    budget: "Rp. 4.000.000"
+  },
+]
 // export const popularDishes = [
 //     {
 //       id: 1,
