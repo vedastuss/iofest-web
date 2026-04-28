@@ -9,6 +9,73 @@
 // import pooriSabji from '../assets/images/poori-sabji.webp';
 // import roganJosh from '../assets/images/rogan-josh.jpg';
 // import { color } from 'framer-motion';
+export const moneyData = [
+  {
+    id: 1,
+    penanggungJawab: "Andi",
+    aktivitas: "Pemasukan",
+    total: 1500000,
+    tanggal: "2026-04-01",
+    keterangan: "Dana sponsor acara"
+  },
+  {
+    id: 2,
+    penanggungJawab: "Budi",
+    aktivitas: "Penarikan",
+    total: 300000,
+    tanggal: "2026-04-02",
+    keterangan: "Pembelian alat tulis"
+  },
+  {
+    id: 3,
+    penanggungJawab: "Citra",
+    aktivitas: "Pemasukan",
+    total: 750000,
+    tanggal: "2026-04-03",
+    keterangan: "Iuran anggota"
+  },
+  {
+    id: 4,
+    penanggungJawab: "Dewi",
+    aktivitas: "Penarikan",
+    total: 500000,
+    tanggal: "2026-04-04",
+    keterangan: "Konsumsi rapat"
+  },
+  {
+    id: 5,
+    penanggungJawab: "Eko",
+    aktivitas: "Pemasukan",
+    total: 2000000,
+    tanggal: "2026-04-05",
+    keterangan: "Donasi eksternal"
+  },
+  {
+    id: 6,
+    penanggungJawab: "Fajar",
+    aktivitas: "Penarikan",
+    total: 450000,
+    tanggal: "2026-04-06",
+    keterangan: "Transport panitia"
+  },
+  {
+    id: 7,
+    penanggungJawab: "Gina",
+    aktivitas: "Pemasukan",
+    total: 900000,
+    tanggal: "2026-04-07",
+    keterangan: "Penjualan merchandise"
+  },
+  {
+    id: 8,
+    penanggungJawab: "Hadi",
+    aktivitas: "Penarikan",
+    total: 250000,
+    tanggal: "2026-04-08",
+    keterangan: "Cetak banner"
+  }
+];
+
 export const propoLPJ = [
   {
     namaAcara: "PKKMB IMALEKTA 2026",
