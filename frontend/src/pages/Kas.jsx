@@ -241,6 +241,7 @@ const Kas = () => {
           )}
         </div>
       </div>
+      <BottomNav />
     </section>
   );
 };
